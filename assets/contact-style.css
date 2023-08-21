@@ -1,0 +1,39 @@
+* {
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+    font-family: 'Avantgarde', TeX Gyre Adventor, URW Gothic L, sans-serif;
+}
+body {
+    background-color: #d8cad7;
+}
+
+.header {
+    padding: 20px;
+    background-color: #3c9996;
+    color: #ffffff;
+}
+
+.header h1 {
+    display: inline-block;
+    font-size: 48px;
+}
+
+.header nav {
+    padding-top: 15px;
+    margin-right: 20px;
+    float: right;
+    font-size: 20px;
+    list-style-type: none
+}
+
+.header nav li {
+    display: inline-block;
+    margin-left: 25px;
+}
+
+a {
+    color: #ffffff;
+    text-decoration: none;
+}
+
